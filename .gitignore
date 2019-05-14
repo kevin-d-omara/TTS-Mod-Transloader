@@ -1,0 +1,18 @@
+# IntelliJ
+.idea
+*.iml
+
+# PyInstaller
+build
+dist
+*.spec
+
+# Python
+venv
+*__pycache__
+
+# pytest
+pytest_cache
+
+# Project Specific
+google_drive_secret_key
