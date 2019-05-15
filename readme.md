@@ -89,3 +89,9 @@ See also: https://docs.pytest.org/en/latest/
 1. Run: `pyinstaller src/image_cropper/main.py --name heroes-system-image-cropper --onefile`
 
 See also: https://pyinstaller.readthedocs.io/en/stable/usage.html
+
+
+
+## Resources
+https://medium.com/@annissouames99/how-to-upload-files-automatically-to-drive-with-python-ee19bb13dda
+https://github.com/eigengrau/tts-backup
