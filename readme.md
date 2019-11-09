@@ -1,3 +1,5 @@
+**This tool hasn't been created yet. This is the specification.**
+
 # TTS Mod Transloader
 TTS Mod Transloader uploads assets from any Tabletop Simulator mod to your Google Drive account and creates a corresponding savefile.
 This guarantees you can always play a mod with your friends, even if the original files get taken down, without needing to manually share files.
